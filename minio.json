@@ -11,7 +11,7 @@
     "pkgs": [
         "minio"
     ],
-    "packagesite": "http://pkg.freebsd.org/${ABI}/latest",
+    "packagesite": "https://pkg.freebsd.org/${ABI}/latest",
     "fingerprints": {
         "iocage-plugins": [
             {

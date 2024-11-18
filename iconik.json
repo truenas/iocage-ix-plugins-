@@ -9,7 +9,7 @@
     "pkgs": [
         "iconik_storage_gateway"
     ],
-    "packagesite": "http://cdn1.tn.ixsystems.com/download.truenas.com/plugins/iconik/stable/12.4-RELEASE",
+    "packagesite": "https://download.truenas.com/plugins/iconik/stable/12.4-RELEASE",
     "fingerprints": {
         "iocage-plugins": [
             {
